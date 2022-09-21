@@ -1,1 +1,1 @@
-env=review
+env=prod
