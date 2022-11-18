@@ -1,3 +1,3 @@
 env=prod
 
-test_2_app
+test_1_app
