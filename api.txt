@@ -1,4 +1,4 @@
-env=review
+env=test
 
 test_2_app
 
