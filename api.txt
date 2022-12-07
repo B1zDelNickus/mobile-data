@@ -1,4 +1,4 @@
-env=prod
+env=review
 
 test_2_app
 
